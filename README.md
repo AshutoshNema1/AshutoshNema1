@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashutosh Nema.
 - 👀 I’m interested in Machine Learning, Data Science , Web Development as well as Data Structures and Algorithms.
 - 🌱 I’m currently learning Javascript.
-- 📫 Connect with me on Github.
+- 📫 Connect with me on my socials : Gmail : ashutoshnema419@gmail.com
 
 <!---
 AshutoshNema1/AshutoshNema1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
